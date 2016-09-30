@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 
 
 
-//	fprintf(f, "wew");
+//	fprintf(f, "test");
 //	fclose(f);
 
 	return 0;
